@@ -3,6 +3,10 @@ A pyramidical staking BEP20 contract(BNB staking) with profit- 0.1% per hour/ 2.
 
 Group of CyberBank: https://t.me/Cyber_Bank_BNB
 
+
+
+
+
 // SPDX-License-Identifier: MIT
 //                           _                     _                  _
 //  ___ _ __ ___   __ _ _ __| |_    ___ ___  _ __ | |_ _ __ __ _  ___| |_
